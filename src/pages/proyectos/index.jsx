@@ -15,18 +15,18 @@ import InsertLinkIcon from '@mui/icons-material/InsertLink';
 import Button from '@mui/material/Button';
 
 
-const enlaceAlProyectoWebResponsive = 'https://webresponsiveanimada.herokuapp.com/';
-const enlaceAlProyectoWebResponsiveGitHub = 'https://github.com/niltonGold/proyecto_WebResponsiveAnimadaV2.git';
+const enlaceAlProyectoWebResponsive = 'https://webresponsiveanimada.netlify.app/';
+const enlaceAlProyectoWebResponsiveGitHub = 'https://github.com/niltonGold/HTML-CSS-Proyect-WebResponsiveAnimada';
 
-const enlaceAlProyectoTetris = 'https://webtetris.herokuapp.com/';
-const enlaceAlProyectoTetrisGitHub = 'https://github.com/niltonGold/proyecto_ElTetrisV2.git';
+const enlaceAlProyectoTetris = 'https://web-tetris.netlify.app/';
+const enlaceAlProyectoTetrisGitHub = 'https://github.com/niltonGold/CSS-JS-WebTetris';
 
-const enlaceAlProyectoKanban = 'https://tablerokanbannil.herokuapp.com/';
-const enlaceAlProyectoKanbanGitHub = 'https://github.com/niltonGold/proyecto_TableroKanbanV2.git';
+const enlaceAlProyectoKanban = 'https://tablero-kanband.netlify.app/';
+const enlaceAlProyectoKanbanGitHub = 'https://github.com/niltonGold/REACT-TableroKanband';
 
 
-const enlaceAlProyectoWeatherApp = 'https://weatherappnil.herokuapp.com/';
-const enlaceAlProyectoWeatherAppGitHub = 'https://github.com/niltonGold/proyecto_TableroKanbanV2.git';
+const enlaceAlProyectoWeatherApp = 'https://weather-app-current-simple.netlify.app/';
+const enlaceAlProyectoWeatherAppGitHub = 'https://github.com/niltonGold/REACT-WeatherApp';
 
 
 
@@ -41,8 +41,8 @@ export default function Proyectos(){
                                 <Stack  sx={{ flexDirection:'row', gap:'1rem'}}>
 
                                         <Typography sx={{ color:'white', fontSize:{ xs:'x-small', md:'large' }, textAlign:'justify', alignSelf:'center' }} >
-                                        🖐️¡Hola!, Soy <b>Nilton Enrique Medina Sayan</b>, soy un <b>WEB FULL STACK DEVELOPER</b> y este es mi <b>repositorio</b>, 
-                                            un espacio⭐ donde me conocerás un poco más a nivel <b>personal</b>  y <b>profesional</b>.
+                                        🖐️¡Hola!, Soy <b>Nilton Enrique Medina Sayan</b>, soy un <b>FULL STACK WEB DEVELOPER</b> y este es mi <b>porfolio</b>, 
+                                            un espacio donde me conocerás un poco más a nivel <b>personal</b>  y <b>profesional</b>.
                                         </Typography>
 
                                         <Avatar sx={{ width:{ xs:'4rem', md:'9rem' }, height:{ xs:'4rem', md:'9rem' } }} alt="Remy Sharp" src={fotoPorfolio} />
